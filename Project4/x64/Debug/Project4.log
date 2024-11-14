@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Николай\Desktop\прога\Project1\Project4\Source.cpp(65,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project4.vcxproj -> C:\Users\Николай\Desktop\прога\Project1\x64\Debug\Project4.exe
